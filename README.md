@@ -1,5 +1,9 @@
 changelog  
 
+v1.1.1
++ Handle optional mod
+  + Visual only version with no more optional value change
+
 v1.1.0  
 + Overhaul mod to support multiple Layered weapon  
 + Now supports:  
